@@ -661,7 +661,7 @@ With `"use strict"`, you can make sure that you don't accidentally declare globa
 </p>
 </details>
 
---- <p style="font-size: 30px">Reached</p>
+--- <p>-------------------------------------------- Reached --------------------------------------------</p>
 
 
 ###### 21. What's the value of `sum`?
